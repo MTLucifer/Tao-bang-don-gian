@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+}
+.left {
+  color: blue;
+    width: 30%;
+    float: left;
+    padding-left: 10px
+}
+.right {
+    color: blue;
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.day {
+    background-color: yellow;
+}
+tr,th,td {
+    border-style: solid;
+    border-width: thin;
+}
+table {
+    border-collapse: collapse;
+}
